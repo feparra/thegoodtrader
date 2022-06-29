@@ -1,0 +1,2 @@
+# thegoodtraderpage
+ entregaintermediaproyecto final
