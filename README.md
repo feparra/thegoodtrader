@@ -1,6 +1,15 @@
 # thegoodtraderpage
- entregaintermediaproyecto final
+ entrega proyecto final
 # tradingbook Evolution Marketing
+
+Integrantes:
+Fernando Parra 
+Felipe Espinosa
+
+Pagina de tradingBook TheGoodTrader
+
+-----
+
 
 En este repo van a encontrar el codigo fuente para la creacion de la pagina web de thegoodtrader
 
@@ -40,7 +49,7 @@ y se utilizaron los formatos forms para su ejecucion tenemos dos formas de busca
 
 la otra desde dashboard
 
-se pueden agregar
+se pueden agregar por el administrador.
 - Trades 
 - mercados
 - y notas 
